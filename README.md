@@ -18,7 +18,7 @@
 
 ## 软件介绍 / Introduction
 
-基于 [MaaFramwork[(https://github.com/MaaXYZ/MaaFramework) 框架的明日方舟 PC 端简易划火柴实现，本项目是 AUTO-MAS 的衍生项目。
+基于 [MaaFramwork](https://github.com/MaaXYZ/MaaFramework) 框架的明日方舟 PC 端简易划火柴实现，本项目是 AUTO-MAS 的衍生项目。
 
 当前已实现：
 
