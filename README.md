@@ -14,7 +14,6 @@
   <a href="https://github.com/AUTO-MAS-Project/MaaZeroFrameAction/graphs/contributors"><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/AUTO-MAS-Project/MaaZeroFrameAction?style=flat-square"></a>
   <a href="https://github.com/AUTO-MAS-Project/MaaZeroFrameAction/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/AUTO-MAS-Project/MaaZeroFrameAction?style=flat-square"></a>
   <a href="https://deepwiki.com/AUTO-MAS-Project/MaaZeroFrameAction"><img alt="DeepWiki" src="https://deepwiki.com/badge.svg"></a>
-  <a href="https://mirrorchyan.com/zh/projects?rid=AUTO-MAS&source=auto_mas-readme"><img alt="mirrorc" src="https://img.shields.io/badge/Mirror%E9%85%B1-%239af3f6?logo=countingworkspro&logoColor=4f46e5"></a>
 </p>
 
 ## 软件介绍 / Introduction
