@@ -53,6 +53,37 @@
 
 ---
 
+# 使用方法 / Usage
+
+- 直接使用发行版
+
+  下载发行版，并运行 `MaaZeroFrameAction.exe` 即可。
+
+- 在 Python 环境中运行
+
+  1. 安装 Python 3.12 或更高版本
+
+  2. 安装依赖包
+  ```bash
+  pip install -r requirements.txt
+  ```
+  3. 运行 `main.py`
+  ```bash
+  python main.py
+  ```
+- 在完成开发后打包发行版
+
+  1. 安装 Nuitka
+  ```bash
+  pip install nuitka
+  ```
+  2. 运行打包脚本
+  ```bash
+  python package.py
+  ```
+
+---
+
 # 关于 / About
 
 ## 贡献者 / Contributors
