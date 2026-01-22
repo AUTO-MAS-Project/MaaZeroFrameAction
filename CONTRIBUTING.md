@@ -1,12 +1,8 @@
 # 开发指引 / Developer Guidelines
 
-欢迎参与 AUTO-MAS 项目开发！参与开发前，请阅读 **AUTO-MAS 开发文档**。
+欢迎参与 MaaZeroFrameAction 项目开发！
 
-- [AUTO-MAS 开发文档](https://doc.auto-mas.top/developer/)。
-
-Welcome to contribute to the AUTO-MAS project! Before participating in development, please read the **AUTO-MAS Developer Documentation**.
-
-- [AUTO-MAS Developer Documentation](https://doc.auto-mas.top/developer/).
+Welcome to contribute to the MaaZeroFrameAction project!
 
 # 重要事项 / Important Terms
 
